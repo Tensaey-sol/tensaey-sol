@@ -2,9 +2,9 @@
 <br/>
 <h3 align="center">
   <!-- First Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Julius Sans One&duration=3000&pause=9000&color=61DAFB&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tensaey+Solomon" alt="Typing SVG" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Julius+Sans+One&duration=3000&pause=9000&color=61DAFB&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tensaey+Solomon" alt="Typing SVG" /><br/>
   <!-- Second Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Black Ops One&duration=3000&pause=1000&color=61DAFB&center=true&width=435&lines=Frontend+Developer;Crafting+Responsive+Web+Experiences;Exploring+Tech%2C+Code%2C+and+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=3000&pause=1000&color=61DAFB&center=true&width=435&lines=Frontend+Developer;Crafting+Responsive+Web+Experiences;Exploring+Tech%2C+Code%2C+and+Design" alt="Typing SVG" />
 </h3>
 <p align="center">
   <a href="mailto:12tensaeysolomon3@gmail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/user-attachments/assets/d3555839-dc2a-4c8b-8ac5-0369da5a727b"/></a>
